@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KosalSreyka/Final-Project.git/static/css/main.4adb7be6.css",
+    "main.js": "/KosalSreyka/Final-Project.git/static/js/main.352f5e05.js",
+    "static/media/bag.jpg": "/KosalSreyka/Final-Project.git/static/media/bag.474294d3c9f202fd43b9.jpg",
+    "static/media/pc.jpg": "/KosalSreyka/Final-Project.git/static/media/pc.3483170fe9a4fdf2cf08.jpg",
+    "static/media/pic1.jpg": "/KosalSreyka/Final-Project.git/static/media/pic1.3c9c1ab5a42263008404.jpg",
+    "static/media/pic3.jpg": "/KosalSreyka/Final-Project.git/static/media/pic3.5cc59dffce857d09fafe.jpg",
+    "static/media/girl_shirt1.jpg": "/KosalSreyka/Final-Project.git/static/media/girl_shirt1.b0bf8796b606e6c1ef00.jpg",
+    "static/media/shirt.jpg": "/KosalSreyka/Final-Project.git/static/media/shirt.3f14b9bd3d076452d15f.jpg",
+    "static/media/girl_shirt.jpg": "/KosalSreyka/Final-Project.git/static/media/girl_shirt.e9b446ab3d5efecc84b7.jpg",
+    "index.html": "/KosalSreyka/Final-Project.git/index.html",
+    "main.4adb7be6.css.map": "/KosalSreyka/Final-Project.git/static/css/main.4adb7be6.css.map",
+    "main.352f5e05.js.map": "/KosalSreyka/Final-Project.git/static/js/main.352f5e05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4adb7be6.css",
+    "static/js/main.352f5e05.js"
+  ]
+}
