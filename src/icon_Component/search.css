@@ -1,0 +1,25 @@
+.search{
+    width: 60%;
+    margin: auto;
+}
+input[type="text"]{
+   
+    width: 70%;
+    height: 30px;
+    font-size: 20px;
+    border-color: blue;
+    border-radius: 5px;
+    margin-top: 5%;
+}
+ul{ 
+    list-style-type: none;
+}
+ul ,li{
+
+    text-decoration: none;
+    justify-content: center;
+}
+.listitem{
+    color: dodgerblue;
+    text-align: justify;
+}

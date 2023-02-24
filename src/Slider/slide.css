@@ -1,0 +1,12 @@
+.slide{
+    width: 100%;
+
+}
+.slide img{
+    height: 700px;
+    object-fit: contain;
+    object-position: center;
+}
+.slide .tcolor{
+    color: aqua;
+}

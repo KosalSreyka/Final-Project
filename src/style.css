@@ -1,0 +1,36 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    
+}
+.nav-bar .logo{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.nav-bar .logo img{
+    width: 70px;
+    height: 50px;
+    margin-left: 95%;
+    border-radius: 50%;
+    
+}
+.nav-bar ul{
+    list-style-type: none;
+    padding: 5px;
+}
+.nav-bar ul li{
+    display: inline; 
+    margin-left: 40px;  
+    
+}
+.nav-bar ul li a{
+    text-decoration: none;
+    color: blue;
+    
+}
+.nav-bar ul li .active  {
+    color: rgb(255, 30, 30);
+}
